@@ -20,8 +20,8 @@ https://tests.mettl.com/authenticateKey/a05abbcf
   
 # Solution  
 
-### What Question Says:
-Basically the questions tells us to sum up the even digits or odd digits of a number and return it. We can analyze the Examples to understand it better. 
+### Analysing Question:
+Basically the question tells us to sum up the even digits or odd digits of a number and return it. We can analyze the Examples to understand it better. 
 
 ### Pseudo Code:
 ```
