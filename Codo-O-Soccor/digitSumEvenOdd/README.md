@@ -12,7 +12,7 @@ The function will take two input parameters \-
 **Example 2:** If the given number is 2134, and the option is `even`, we must add only the even digits, i.e. `[2 + 4 = 6]`  
   
 **Assumptions:**
-* `1 >= input1 >= 25000`
+* `1 <= input1 <= 25000`
 * `input2` will be a string either `even` or `odd` 
   
 ## Link to Questions:
@@ -38,7 +38,7 @@ EvenOddDigitsSum(input1, input2):
         input1 = input1 / 10
     return digitSum
 ```
-TC: O(n)&emsp;where n is number of digits in input1  
+TC: O(n)&emsp;where n is number of digits in `input1`  
 SC: O(1)
 
 ### Approach:
