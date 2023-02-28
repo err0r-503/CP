@@ -15,7 +15,7 @@ The function will take two input parameters \-
 * `1 <= input1 <= 25000`
 * `input2` will be a string either `even` or `odd` 
   
-# Link to Questions:
+# Link to Question:
 https://tests.mettl.com/authenticateKey/a05abbcf
   
 # Solution  
